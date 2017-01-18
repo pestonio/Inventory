@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="product_name">Product Name: \n</string>
+    <string name="item_desc">Item Description: \n</string>
+    <string name="stock">Total in Stock: \n</string>
+    <string name="price">Price: \n£ </string>
+    <string name="sales">Sales to Date: </string>
+</resources>
